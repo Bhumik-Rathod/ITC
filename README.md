@@ -1,6 +1,6 @@
 # itc
 
-A new Flutter project.
+Admission Enquiry App
 
 ## Getting Started
 
